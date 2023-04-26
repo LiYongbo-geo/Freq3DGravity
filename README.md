@@ -4,7 +4,7 @@ demo2_inversion.py/demo2-inversion.ipynb is the inversion demonstration by the w
 
 demo3_Lcurve.py/demo3_Lcurve.ipynb is a example for optimizing regularization parameter.  
 
-The three python source code have been tested on the Windows 10.  
+The three python source examples have been tested on the Windows 10.  
 
 How to run the demo programs?  
 
