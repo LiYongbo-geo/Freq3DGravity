@@ -1,5 +1,7 @@
 demo1_forward.py/demo1-forward.ipynb  is a example for comparsion of gravity anomaly forward by the space domain(eq.3) and wave number domain(eq.9).  
+
 demo2_inversion.py/demo2-inversion.ipynb is the inversion demonstration by the wave number domain method of this study.  
+
 demo3_Lcurve.py/demo3_Lcurve.ipynb is a example for optimizing regularization parameter.  
 
 The three python source code have been tested on the Windows 10.  
